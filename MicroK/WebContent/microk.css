@@ -1,0 +1,62 @@
+table , tr , td {
+ /* border : 2px solid white ;     */
+}
+
+
+.bodyprova {
+	font-size : 20px ;
+	border : 1  ; 
+	color : #FFFFFF ;
+	background : #000000;
+}
+
+
+
+.piuascoltati{
+	border : 1  ; 
+
+	width : 300px ;
+	background : red ;
+}
+
+
+.testata{
+	border : 1  ; 
+	height : 10%;
+	background : #1f8541 ;
+	text-align : center ; 
+	font-size : 50px ;
+	color : #FFFFFF ;
+}
+
+.macro{
+	/* border : 1  ;  */
+	width : 100% ;  
+	
+}
+
+.ascoltati{
+	text-align : center ; 
+	border : 1px ;
+	height : 45%;
+	width : 100%; 
+}
+.toprock{
+	text-align : center ; 
+
+	border : 1px ;
+	height : 45%;
+	width : 100%; 
+}
+
+.barradiricerca{
+	text-align : center ;
+	width : 100%;
+	height : 10%;
+}
+
+.accessmenu{
+	width : 100% ;
+	background : #1f8541; 
+	text-align : center ; 
+}
